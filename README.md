@@ -10,14 +10,6 @@ I like building software that is simple to use, reliable, and useful in real lif
 I hold a **Bachelor’s degree in Computer Science** and I work across both frontend and backend development.  
 I enjoy understanding the full picture of an application — from the user interface to the database.
 
-I care about:
-- Writing clean and readable code  
-- Solving real problems, not just technical ones  
-- Learning continuously and improving my skills  
-- Building systems that can grow and scale over time  
-
----
-
 ## 🧰 Tech Stack
 
 ### Frontend
@@ -27,9 +19,9 @@ I care about:
 
 ### Backend
 - Node.js (Express)
-- Laravel (PHP)
+- Adonis.js
 - RESTful APIs
-- Authentication & authorization
+  
 
 ### Mobile
 - Flutter 
@@ -48,14 +40,6 @@ I care about:
 
 ---
 
-## 🧩 Tasks
-- Design and develop user-friendly interfaces  
-- Build and maintain backend APIs  
-- Manage databases and data flow  
-- Implement authentication and access control  
-- Fix bugs and improve performance  
-- Collaborate and adapt to project requirements
-- 
 
 <!--
 **xai-schad-12/xai-schad-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
