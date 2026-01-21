@@ -15,6 +15,8 @@ I enjoy understanding the full picture of an application — from the user inter
 ### Frontend
 - HTML, CSS, JavaScript
 - Vue.js (Vue 3)
+- React.js
+- Next.js
 - Tailwind CSS, PrimeVue, Vuetify
 
 ### Backend
